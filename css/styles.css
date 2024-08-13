@@ -150,6 +150,7 @@ h4 {
 }
 .scroll-card img {
   border-radius: 5px;
+  padding: 1rem;
 }
 .scroll-card button {
   background-color: var(--yellow);
